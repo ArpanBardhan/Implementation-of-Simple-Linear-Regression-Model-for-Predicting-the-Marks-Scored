@@ -60,6 +60,7 @@ plt.show()
 ![Screenshot 2024-08-30 103515](https://github.com/user-attachments/assets/d32436bd-1460-4260-8bd6-f4f38705defa)
 ![Screenshot 2024-08-30 103503](https://github.com/user-attachments/assets/6be4ee7c-caf5-48ac-bab0-46bc42bb4f3c)
 ![Screenshot 2024-08-30 103549](https://github.com/user-attachments/assets/65dd45b6-d662-44ab-9cc5-0263e0309f21)
+![Screenshot 2024-08-30 140517](https://github.com/user-attachments/assets/3fb956f4-7ffc-4dae-8663-ab4d3d8204d5)
 
 
 
